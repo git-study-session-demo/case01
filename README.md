@@ -1,11 +1,15 @@
 修正をmaster(main)にマージするまでの流れを知りたい。
 
 
-（ブラウザ）リポジトリを準備する
-（コマンド）リポジトリをローカルにクーロンする
+（ブラウザ）リポジトリをフォークする
+
+![スクリーンショット 2021-03-09 13 29 23](https://user-images.githubusercontent.com/869103/110418883-96bb9100-80db-11eb-8b64-5597f8ca3d56.png)
+
+フォークしたリポジトリをローカルにクーロンして、その中に入る
 
 ```bash
-git clone <your repository url> .
+git clone <your repository url> case01
+cd case01
 ```
 
 （コマンド）開発ブランチを作成する

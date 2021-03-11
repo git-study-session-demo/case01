@@ -1,6 +1,5 @@
 # 修正をmaster(main)にマージするまでの流れを知りたい。
 
-
 >ブラウザから操作
 ## 1.リポジトリをフォークする
 https://github.com/git-study-session-demo/case01
